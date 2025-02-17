@@ -16,6 +16,6 @@
 ---
 
 ### 📚 About Me
-- 🎓 Pursuing a Master's in Electrical and Computer Engineering at **Duke University**
+- 🎓 Master in Electrical and Computer Engineering at **Duke University**
 - 💼 Exploring the intersection of technology and creativity
 - 🌱 Focused on **C/C++, Python, Java, TypeScript, JavaScript, React** 
